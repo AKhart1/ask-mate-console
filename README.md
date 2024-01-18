@@ -1,6 +1,6 @@
 # AskMate
 
-You are tasked with creating an application where people can ask questions and post answers to questions.
+An application where people can ask questions and post answers to questions.
 Like this [tiny site](https://stackoverflow.com/questions/19747371/python-exit-commands-why-so-many-and-when-should-each-be-used/),
 but as a console application.
 
